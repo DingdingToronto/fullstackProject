@@ -1,0 +1,30 @@
+[
+    {
+      "role": "Web Developer",
+      "organisation": "Humber College",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+      "experiences": ["Working project with Javascript, css, html, php, c#"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Civil Engineer",
+      "organisation": "Government Spandau",
+      "startDate": "Jan, 2022",
+      "endDate": "Jun, 2022",
+      "experiences": ["A civil engineer working in government overseeing public traffic service ensures the safe and efficient flow of traffic through design, maintenance, and management of transportation infrastructure."],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "Civil Engineer",
+      "organisation": "Government Stuttgart",
+      "startDate": "Aug, 2020",
+      "endDate": "Dec, 2021",
+      "experiences": [
+        "Designing transportation infrastructure for safe traffic flow.",
+        "Analyzing and optimizing traffic patterns and signals.",
+        "Implementing policies to enhance public transportation and mobility."
+      ],
+      "imageSrc": "history/netflix.png"
+    }
+  ]
